@@ -8,7 +8,7 @@ class GardenGnome
     @hat_color = hat_color
   end
   def graw 
-    return "Gnawing on a treet!!!"
+    return "Gnawing on a tree!!!"
   end
   def shout
     return "GNAELY!!!"
